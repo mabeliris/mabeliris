@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Mabel and I'm a Web Developer.
 My desire to help and be of service to people is something that has always been in me. Today, thanks to technology, I can provide tools that help people solve problems.
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on in open source proyects.
+- 💞️ I’m looking to collaborate on open-source proyects.
 - 📫 How to reach me: mabelle7623@gmail.com
 - 😄 Pronouns: She/Her
 
